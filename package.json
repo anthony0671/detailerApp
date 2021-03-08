@@ -1,0 +1,15 @@
+{
+  "name": "broward-detailers",
+  "version": "1.0.0",
+  "description": "[SB UI Kit Pro](https://shop.startbootstrap.com/products/sb-ui-kit-pro/) is a  premium UI development kit for Bootstrap 4 projects",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
